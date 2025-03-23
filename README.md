@@ -8,7 +8,7 @@
 - [Сервис проверки контрагентов](https://mihailshamin.ru/projects/naki/). НАКИ
   
 ## Мои проекты
-- [Анкета менеджера IT-проектов](https://course.mihailshamin.ru/)
+- [Метода Сократа, анкета менеджера IT-проектов](https://course.mihailshamin.ru/)
 - [Rentalist.me, сервис проката вещей](https://mihailshamin.ru/projects/rentalist/)
 - [Изюмина, социальная сеть для творческих людей](https://mihailshamin.ru/projects/izumina/)
 
